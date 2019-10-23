@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+
+.App-link {
+  color: #09d3ac;
+}
+
+.row {
+  flex-direction: row;
+  flex:1;
+  justify-content: space-between;
+}
+
+.btn_dec {
+  align-self: flex-start;
+}
+
+.btn_inc {
+  align-self: flex-end;
+}
+
+button {
+  margin: 1cm;
+}
