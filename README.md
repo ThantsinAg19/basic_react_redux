@@ -1,9 +1,6 @@
 # basic_react_redux
 Basic react redux small app for beginner 
 
-# credit to 
-https://www.youtube.com/watch?v=CVpUuw9XSjY
-
 # run script
 npm install --save 
 npm start
